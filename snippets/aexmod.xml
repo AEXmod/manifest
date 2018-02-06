@@ -16,7 +16,7 @@
   </project>
 
   <project path="bionic" name="platform_bionic" groups="pdk" remote="aexmod" />
-  <project path="external/DUtils" name="platform_external_DUtils" remote="aexmod" />
+  <project path="external/DUtils" name="platform_external_DUtils" remote="aexmod" revision="8.0" />
   <project path="frameworks/base" name="platform_frameworks_base" remote="aexmod" />
   <project path="frameworks/native" name="platform_frameworks_native" groups="pdk" remote="aexmod" />
   <project path="frameworks/opt/telephony" name="platform_frameworks_opt_telephony" groups="pdk" remote="aexmod" />
@@ -37,15 +37,15 @@
   <project path="system/core" name="platform_system_core" groups="pdk" remote="aexmod" />
   <project path="system/sepolicy" name="platform_system_sepolicy" groups="pdk" remote="aexmod" />
   <project path="vendor/aosp" name="platform_vendor_aosp" remote="aexmod" />
-  <project path="vendor/miui" name="AEXmod/platform_vendor_miui" remote="aexmod" />
+  <project path="vendor/miui" name="platform_vendor_miui" remote="aexmod" />
 
   <!-- Device -->
-  <project path="device/qcom/sepolicy" name="platform_device_qcom_sepolicy" remote="aexmod" />
+  <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="aexmod" />
   <project path="device/aosp/sepolicy" name="platform_device_aosp_sepolicy" remote="aexmod" />
 
   <!-- HALs -->
-  <project path="hardware/qcom/display-caf" name="platform_hardware_qcom_media" groups="qcom_display" remote="aexmod" revision="8.1-caf-8996" />
-  <project path="hardware/qcom/audio-caf" name="platform_hardware_qcom_audio" groups="qcom_audio" remote="aexmod" revision="8.1-caf-8996" />
+  <project path="hardware/qcom/display-caf" name="hardware_qcom_display" groups="qcom_display" remote="aexmod" revision="8.1-caf-8996" />
+  <project path="hardware/qcom/audio-caf" name="hardware_qcom_audio" groups="qcom_audio" remote="aexmod" revision="8.1-caf-8996" />
 
   <!-- Toolchains -->
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" remote="linaro" revision="master" />
