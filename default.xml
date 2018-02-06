@@ -12,11 +12,27 @@
            fetch="https://github.com/AospExtended"
            revision="refs/heads/8.1.x" />
 
+  <remote  name="aexmod"
+           fetch="https://github.com/AEXmod"
+           revision="refs/heads/8.1" />
+
+  <remote  name="los"
+           fetch="https://github.com/lineageos"/>
+
+  <remote name="linaro"
+              fetch="git://android.git.linaro.org/"
+              review="review.android.git.linaro.org" 
+	      revision="refs/heads/master"/>
+
+  <remote  name="nitro"
+           fetch="https://github.com/nitrogen-project"
+           revision="refs/heads/o2" />
+
   <remote  name="aex-devices"
            fetch="https://github.com/AospExtended-Devices" 
            revision="refs/heads/8.1.x" />
 
-  <default revision="refs/tags/android-8.1.0_r4"
+  <default revision="refs/tags/android-8.1.0_r11"
            remote="aosp"
            sync-j="4"
            sync-c="true"/>
@@ -638,5 +654,8 @@
   <!-- Custom repos -->
   <include name="snippets/remove.xml" />
   <include name="snippets/aex.xml" />
+  <include name="snippets/aexmod.xml" />
+  <include name="snippets/los.xml" />
+  <include name="snippets/nitro.xml" />
 
 </manifest>

@@ -13,6 +13,8 @@
   <remove-project name="device/generic/mini-emulator-mips64" />
   <remove-project name="device/generic/mini-emulator-x86" />
   <remove-project name="device/generic/mini-emulator-x86_64" />
+  <remove-project name="device/generic/mips" />
+  <remove-project name="device/generic/mips64" />
   <remove-project name="device/generic/qemu" />
   <remove-project name="device/generic/uml" />
   <remove-project name="device/generic/x86" />
@@ -55,6 +57,7 @@
   <remove-project name="platform/packages/apps/QuickSearchBox" />
   <remove-project name="platform/packages/apps/SpareParts" />
   <remove-project name="platform/prebuilts/clang/host/darwin-x86" />
+  <remove-project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9" />
@@ -78,6 +81,7 @@
   <remove-project name="platform/frameworks/native" />
   <remove-project name="platform/frameworks/opt/telephony" />
   <remove-project name="platform/frameworks/opt/net/ims" />
+  <remove-project name="platform/frameworks/opt/net/wifi" />
   <remove-project name="platform/hardware/broadcom/libbt" />
   <remove-project name="platform/hardware/interfaces" />
   <remove-project name="platform/hardware/libhardware" />
@@ -94,6 +98,7 @@
   <remove-project name="platform/hardware/ril" />
   <remove-project name="platform/packages/apps/PackageInstaller" />
   <remove-project name="platform/packages/apps/Messaging" />
+  <remove-project name="platform/packages/apps/MusicFX" />
   <remove-project name="platform/packages/apps/DocumentsUI" />
   <remove-project name="platform/packages/apps/Bluetooth" />
   <remove-project name="platform/packages/apps/Settings" />
