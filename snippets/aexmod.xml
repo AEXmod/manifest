@@ -46,8 +46,8 @@
   <project path="device/aosp/sepolicy" name="platform_device_aosp_sepolicy" remote="aexmod" />
 
   <!-- HALs -->
-  <project path="hardware/qcom/display-caf" name="hardware_qcom_display" groups="qcom_display" remote="aexmod" revision="8.1-caf-8996" />
-  <project path="hardware/qcom/audio-caf" name="hardware_qcom_audio" groups="qcom_audio" remote="aexmod" revision="8.1-caf-8996" />
+  <project path="hardware/qcom/display-caf/msm8996" name="hardware_qcom_display" groups="qcom_display" remote="aexmod" revision="8.1-caf-8996" />
+  <project path="hardware/qcom/audio-caf/msm8996" name="hardware_qcom_audio" groups="qcom_audio" remote="aexmod" revision="8.1-caf-8996" />
 
   <!-- Toolchains -->
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" remote="linaro" revision="master" />
