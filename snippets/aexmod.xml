@@ -52,5 +52,6 @@
   <!-- Toolchains -->
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" remote="linaro" revision="master" />
   <project path="prebuilts/kernel-tc" name="platform_prebuilts_kernel-tc" remote="aexmod" revision="gcc-7.2" />
+  <project path="vendor/qcom/sdclang-4.0/linux-x86" name="proprietary_vendor_qcom_sdclang-4.0_linux-x86" remote="aexmod" revision="oreo" />
 
 </manifest>
