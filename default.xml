@@ -12,6 +12,9 @@
            fetch="https://github.com/AospExtended"
            revision="refs/heads/8.1.x" />
 
+ <remote  name="bb"
+           fetch="https://bitbucket.org/xanaxdroid/" />
+
   <remote  name="aexmod"
            fetch="https://github.com/AEXmod"
            revision="refs/heads/8.1" />
