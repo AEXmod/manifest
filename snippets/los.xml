@@ -9,7 +9,6 @@
   <!-- HALs -->
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" groups="qcom,qcom_gps" remote="los" revision="lineage-15.1" />
   <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" groups="qcom,qcom_keymaster,pdk" remote="los" revision="lineage-15.1" />
-  <project path="hardware/qcom/power" name="android_hardware_qcom_power" groups="qcom,pdk" remote="los" revision="lineage-15.1" />
   <project path="hardware/ril-caf" name="android_hardware_ril" groups="pdk" remote="los" revision="lineage-15.1-caf" />
   <project path="hardware/ril" name="android_hardware_ril" groups="pdk" remote="los" revision="lineage-15.1" />
   <project path="system/qcom" name="android_system_qcom" groups="pdk" remote="los" revision="lineage-15.1" />
