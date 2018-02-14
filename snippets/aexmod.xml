@@ -18,11 +18,20 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
+  <project path="art" name="platform_art" groups="pdk" remote="aexmod" />
   <project path="bionic" name="platform_bionic" groups="pdk" remote="aexmod" />
+  <project path="libcore" name="platform_libcore" groups="pdk" remote="aexmod" />
   <project path="external/DUtils" name="platform_external_DUtils" remote="aexmod" revision="8.0" />
+  <project path="external/skia" name="platform_external_skia" groups="pdk,qcom_msm8x26" remote="aexmod" />
+  <project path="external/libunwind_llvm" name="platform_external_libunwind_llwm" groups="pdk" remote="aexmod" />
+  <project path="external/libavc" name="platform_external_libavc" remote="aexmod" />
+  <project path="external/libhevc" name="platform_external_libhevc" remote="aexmod" />
   <project path="frameworks/av" name="platform_frameworks_av" groups="pdk" remote="aexmod" />
   <project path="frameworks/base" name="platform_frameworks_base" remote="aexmod" />
   <project path="frameworks/native" name="platform_frameworks_native" groups="pdk" remote="aexmod" />
+  <project path="frameworks/rs" name="platform_frameworks_rs" groups="pdk" remote="aexmod" />
+  <project path="frameworks/support" name="platform_frameworks_support" groups="pdk" remote="aexmod" />
+  <project path="frameworks/compile/libbcc" name="platform_frameworks_compile_libbcc" groups="pdk" remote="aexmod" />
   <project path="frameworks/opt/telephony" name="platform_frameworks_opt_telephony" groups="pdk" remote="aexmod" />
   <project path="frameworks/opt/net/wifi" name="platform_frameworks_opt_net_wifi" groups="pdk" remote="aexmod" />
   <project path="hardware/libhardware_legacy" name="platform_hardware_libhardware_legacy" groups="pdk" remote="aexmod" />
@@ -41,6 +50,8 @@
   <project path="packages/services/Telecomm" name="platform_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="aexmod" />
   <project path="system/core" name="platform_system_core" groups="pdk" remote="aexmod" />
   <project path="system/sepolicy" name="platform_system_sepolicy" groups="pdk" remote="aexmod" />
+  <project path="system/vold" name="platform_system_vold" groups="pdk" remote="aexmod" />
+
   <project path="vendor/aosp" name="platform_vendor_aosp" remote="aexmod" />
   <project path="vendor/miui" name="platform_vendor_miui" remote="aexmod" />
 
