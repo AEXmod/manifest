@@ -19,6 +19,9 @@
   <remote  name="los"
            fetch="https://github.com/lineageos"/>
 
+  <remote  name="benzo"
+           fetch="https://github.com/BenzoRom"/>
+
   <remote name="linaro"
               fetch="git://android.git.linaro.org/"
               review="review.android.git.linaro.org" 
@@ -657,5 +660,6 @@
   <include name="snippets/aexmod.xml" />
   <include name="snippets/los.xml" />
   <include name="snippets/nitro.xml" />
+  <include name="snippets/benzo.xml" />
 
 </manifest>
