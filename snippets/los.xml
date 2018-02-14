@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="los" revision="staging/lineage-15.1" />
+  <project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="los" revision="lineage-15.1" />
 
   <!-- System -->
-  <project path="system/bt" name="android_system_bt" groups="pdk" remote="los" revision="staging/lineage-15.1" />
+  <project path="system/bt" name="android_system_bt" groups="pdk" remote="los" revision="lineage-15.1" />
 
   <!-- HALs -->
-  <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" groups="qcom,qcom_gps" remote="los" revision="staging/lineage-15.1" />
-  <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" groups="qcom,qcom_keymaster,pdk" remote="los" revision="staging/lineage-15.1" />
-  <project path="hardware/qcom/power" name="android_hardware_qcom_power" groups="qcom,pdk" remote="los" revision="staging/lineage-15.1" />
-  <project path="hardware/ril-caf" name="android_hardware_ril" groups="pdk" remote="los" revision="staging/lineage-15.1-caf" />
-  <project path="hardware/ril" name="android_hardware_ril" groups="pdk" remote="los" revision="staging/lineage-15.1" />
-  <project path="system/qcom" name="android_system_qcom" groups="pdk" remote="los" revision="staging/lineage-15.1" />
-  <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" groups="qcom" remote="los" revision="staging/lineage-15.1" />
-  <project path="hardware/qcom/bt-caf" name="android_hardware_qcom_bt" groups="qcom" remote="los" revision="staging/lineage-15.1-caf" />
-  <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" groups="qcom_wlan" remote="los" revision="staging/lineage-15.1" />
-  <project path="hardware/qcom/wlan-caf" name="android_hardware_qcom_wlan" groups="qcom_wlan" remote="los" revision="staging/lineage-15.1-caf" />
-  <project path="hardware/qcom/camera" name="android_hardware_qcom_camera" groups="qcom_camera" remote="los" revision="staging/lineage-15.1" />
-  <project path="vendor/qcom/opensource/cryptfs_hw" name="android_vendor_qcom_opensource_cryptfs_hw" remote="los" revision="staging/lineage-15.1" />
-  <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="los" revision="staging/lineage-15.1" />
-  <project path="vendor/qcom/opensource/rcs-service" name="android_vendor_qcom_opensource_rcs-service" remote="los" revision="staging/lineage-15.1" />
+  <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" groups="qcom,qcom_gps" remote="los" revision="lineage-15.1" />
+  <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" groups="qcom,qcom_keymaster,pdk" remote="los" revision="lineage-15.1" />
+  <project path="hardware/qcom/power" name="android_hardware_qcom_power" groups="qcom,pdk" remote="los" revision="lineage-15.1" />
+  <project path="hardware/ril-caf" name="android_hardware_ril" groups="pdk" remote="los" revision="lineage-15.1-caf" />
+  <project path="hardware/ril" name="android_hardware_ril" groups="pdk" remote="los" revision="lineage-15.1" />
+  <project path="system/qcom" name="android_system_qcom" groups="pdk" remote="los" revision="lineage-15.1" />
+  <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" groups="qcom" remote="los" revision="lineage-15.1" />
+  <project path="hardware/qcom/bt-caf" name="android_hardware_qcom_bt" groups="qcom" remote="los" revision="lineage-15.1-caf" />
+  <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" groups="qcom_wlan" remote="los" revision="lineage-15.1" />
+  <project path="hardware/qcom/wlan-caf" name="android_hardware_qcom_wlan" groups="qcom_wlan" remote="los" revision="lineage-15.1-caf" />
+  <project path="hardware/qcom/camera" name="android_hardware_qcom_camera" groups="qcom_camera" remote="los" revision="lineage-15.1" />
+  <project path="vendor/qcom/opensource/cryptfs_hw" name="android_vendor_qcom_opensource_cryptfs_hw" remote="los" revision="lineage-15.1" />
+  <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="los" revision="lineage-15.1" />
+  <project path="vendor/qcom/opensource/rcs-service" name="android_vendor_qcom_opensource_rcs-service" remote="los" revision="lineage-15.1" />
 
 </manifest>
