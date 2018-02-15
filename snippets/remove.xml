@@ -90,7 +90,6 @@
   <remove-project name="platform/external/libjpeg-turbo" />
   <remove-project name="platform/external/vixl" />
   <remove-project name="platform/external/jemalloc" />
-  <remove-project name="platform/external/aac" />
   <remove-project name="platform/external/speex" />
   <remove-project name="platform/external/libopus" />
   <remove-project name="platform/external/libavc" />
