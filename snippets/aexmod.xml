@@ -42,6 +42,7 @@
   <project path="packages/apps/Settings" name="platform_packages_apps_Settings" groups="pdk-fs" remote="aexmod" />
   <project path="packages/apps/Spectrum" name="AEXmod/platform_packages_apps_Spectrum" remote="github" revision="mod" />
   <project path="packages/apps/OmniStyle" name="platform_packages_apps_OmniStyle" groups="pdk-fs" remote="aexmod" revision="8.0"/>
+  <project path="packages/apps/Updates" name="platform_packages_apps_Updates" groups="pdk-fs" remote="aexmod" />
   <project path="packages/inputmethods/LatinIME" name="platform_packages_inputmethods_LatinIME" groups="pdk-fs" remote="aexmod" />
   <project path="packages/apps/Extensions" name="platform_packages_apps_Extensions" remote="aexmod" />
   <project path="packages/providers/MediaProvider" name="platform_packages_providers_MediaProvider" groups="pdk-cw-fs,pdk-fs" remote="aexmod" />
