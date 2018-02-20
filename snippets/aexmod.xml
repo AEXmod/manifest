@@ -23,7 +23,7 @@
   <project path="libcore" name="platform_libcore" groups="pdk" remote="aexmod" />
   <project path="external/DUtils" name="platform_external_DUtils" remote="aexmod" revision="8.0" />
   <project path="external/skia" name="platform_external_skia" groups="pdk,qcom_msm8x26" remote="aexmod" />
-  <project path="external/libunwind_llvm" name="platform_external_libunwind_llwm" groups="pdk" remote="aexmod" />
+  <project path="external/libunwind_llvm" name="platform_external_libunwind_llvm" groups="pdk" remote="aexmod" />
   <project path="external/libavc" name="platform_external_libavc" remote="aexmod" />
   <project path="external/libhevc" name="platform_external_libhevc" remote="aexmod" />
   <project path="frameworks/av" name="platform_frameworks_av" groups="pdk" remote="aexmod" />
