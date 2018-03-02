@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
- <remote  name="bb"
-           fetch="https://bitbucket.org/xanaxdroid/" />
-
   <project path="build/make" name="platform_build" remote="aexmod" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
@@ -73,7 +70,6 @@
 
   <!-- Toolchains -->
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" remote="linaro" revision="master" />
-  <project path="vendor/qcom/sdclang-4.0/linux-x86" name="proprietary_vendor_qcom_sdclang-4.0_linux-x86" remote="aexmod" revision="oreo" />
   <project path="prebuilts/clang/host/linux-x86" name="platform_prebuilts_clang_host_linux-x86" groups="pdk" remote="aexmod" />
   <project path="prebuilts/gcc/linux-x86/aarch64" name="platform_prebuilts_kernel-tc" remote="aexmod" revision="gcc-8.x" />
   <project path="prebuilts/jdk/jdk9" name="platform/prebuilts/jdk/jdk9" remote="aosp" revision="master" clone-depth="1" />
