@@ -87,6 +87,7 @@
   <remove-project name="platform/external/sqlite" />
   <remove-project name="platform/external/proguard" />
   <remove-project name="platform/external/freetype" />
+  <remove-project name="platform/external/f2fs-tools" />
   <remove-project name="platform/external/zlib" />
   <remove-project name="platform/external/boringssl" />
   <remove-project name="platform/external/sfntly" />
