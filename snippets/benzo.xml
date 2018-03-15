@@ -20,6 +20,5 @@
   <project path="external/ImageMagick" name="external_ImageMagick" remote="benzo" revision="oreo" />
   <project path="external/webrtc" name="external_webrtc" remote="benzo" revision="oreo" />
   <project path="external/webp" name="external_webp" remote="benzo" revision="oreo" />
-  <project path="external/sfntly" name="external_sfntly" remote="benzo" revision="eightone" />
 
 </manifest>
