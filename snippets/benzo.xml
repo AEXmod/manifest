@@ -21,4 +21,6 @@
   <project path="external/webrtc" name="external_webrtc" remote="benzo" revision="oreo" />
   <project path="external/webp" name="external_webp" remote="benzo" revision="oreo" />
 
+   <!-- Vendor -->
+  <project path="vendor/dexoptProfiles" name="vendor_dexoptProfiles" remote="benzo" revision="eightone" />
 </manifest>
