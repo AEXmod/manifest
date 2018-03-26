@@ -51,6 +51,7 @@
   <project path="system/sepolicy" name="platform_system_sepolicy" groups="pdk" remote="aexmod" />
   <project path="system/vold" name="platform_system_vold" groups="pdk" remote="aexmod" />
   <project path="system/bt" name="platform_system_bt" groups="pdk" remote="aexmod" />
+  <project path="system/netd" name="platform_system_netd" groups="pdk" remote="aexmod" />
   <project path="hardware/aosp/interfaces" name="platform_hardware_aosp_interfaces" remote="aexmod" >
       <copyfile dest="hardware/aosp/Android.bp" src="Android.bp"/>
   </project>
