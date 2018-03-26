@@ -5,6 +5,7 @@
 
   <!-- External -->
   <project path="external/f2fs-tools" name="android_external_f2fs-tools" groups="pdk" remote="los" revision="lineage-15.1" />
+  <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="los" revision="lineage-15.1"/>
 
   <!-- HALs -->
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" groups="qcom,qcom_gps" remote="los" revision="lineage-15.1" />
