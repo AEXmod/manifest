@@ -20,5 +20,8 @@
   <project path="vendor/qcom/opensource/cryptfs_hw" name="android_vendor_qcom_opensource_cryptfs_hw" remote="los" revision="lineage-15.1" />
   <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="los" revision="lineage-15.1" />
   <project path="vendor/qcom/opensource/rcs-service" name="android_vendor_qcom_opensource_rcs-service" remote="los" revision="lineage-15.1" />
+  <project path="hardware/qcom/neuralnetworks/hvxservice" name="android_hardware_qcom_neuralnetworks_hvxservice" remote="los" revision="lineage-15.1" >
+    <copyfile dest="hardware/qcom/Android.bp" src="Android.bp"/>
+  </project>
 
 </manifest>
