@@ -7,7 +7,6 @@
   <project path="external/connectivity" name="platform_external_connectivity" groups="pdk" remote="aex" />
   <project path="external/ebtables" name="platform_external_ebtables" groups="pdk" remote="aex" />
   <project path="external/exfat" name="platform_external_exfat" remote="aex" />
-  <project path="external/fuse" name="platform_external_fuse" remote="aex" />
   <project path="external/htop" name="platform_external_htop" remote="aex" />
   <project path="external/json-c" name="platform_external_json-c" remote="aex" />
   <project path="external/libncurses" name="platform_external_libncurses" remote="aex" />

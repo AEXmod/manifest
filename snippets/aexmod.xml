@@ -18,11 +18,13 @@
   <project path="art" name="platform_art" groups="pdk" remote="aexmod" />
   <project path="bionic" name="platform_bionic" groups="pdk" remote="aexmod" />
   <project path="libcore" name="platform_libcore" groups="pdk" remote="aexmod" />
+  <project path="libnativehelper" name="platform_libnativehelper" groups="pdk" remote="aexmod" />
   <project path="external/DUtils" name="platform_external_DUtils" remote="aexmod" revision="8.0" />
   <project path="external/skia" name="platform_external_skia" groups="pdk,qcom_msm8x26" remote="aexmod" />
   <project path="external/libunwind_llvm" name="platform_external_libunwind_llvm" groups="pdk" remote="aexmod" />
   <project path="external/libavc" name="platform_external_libavc" remote="aexmod" />
   <project path="external/libhevc" name="platform_external_libhevc" remote="aexmod" />
+  <project path="external/fuse" name="platform_external_fuse" remote="aexmod" />
   <project path="frameworks/av" name="platform_frameworks_av" groups="pdk" remote="aexmod" />
   <project path="frameworks/base" name="platform_frameworks_base" remote="aexmod" />
   <project path="frameworks/native" name="platform_frameworks_native" groups="pdk" remote="aexmod" />
