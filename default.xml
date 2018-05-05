@@ -27,10 +27,6 @@
               review="review.android.git.linaro.org" 
 	      revision="refs/heads/master"/>
 
-  <remote  name="nitro"
-           fetch="https://github.com/nitrogen-project"
-           revision="refs/heads/o2" />
-
   <remote  name="aex-devices"
            fetch="https://github.com/AospExtended-Devices" 
            revision="refs/heads/8.1.x" />
@@ -659,7 +655,6 @@
   <include name="snippets/aex.xml" />
   <include name="snippets/aexmod.xml" />
   <include name="snippets/los.xml" />
-  <include name="snippets/nitro.xml" />
   <include name="snippets/benzo.xml" />
 
 </manifest>
