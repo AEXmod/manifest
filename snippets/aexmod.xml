@@ -45,6 +45,7 @@
   <project path="packages/apps/Updates" name="platform_packages_apps_Updates" groups="pdk-fs" remote="aexmod" />
   <project path="packages/inputmethods/LatinIME" name="platform_packages_inputmethods_LatinIME" groups="pdk-fs" remote="aexmod" />
   <project path="packages/apps/Extensions" name="platform_packages_apps_Extensions" remote="aexmod" />
+  <project path="packages/apps/SlimRecents" name="platform_packages_apps_SlimRecents" remote="aex" />
   <project path="packages/providers/BlockedNumberProvider" name="platform_packages_providers_BlockedNumberProvider" groups="pdk-cw-fs,pdk-fs" remote="aexmod" />
   <project path="packages/providers/DownloadProvider" name="platform_packages_providers_DownloadProvider" groups="pdk-cw-fs,pdk-fs" remote="aexmod" />
   <project path="packages/providers/MediaProvider" name="platform_packages_providers_MediaProvider" groups="pdk-cw-fs,pdk-fs" remote="aexmod" />
