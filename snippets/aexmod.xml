@@ -83,4 +83,6 @@
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" remote="linaro" revision="master" />
   <project path="prebuilts/clang/host/linux-x86" name="platform_prebuilts_clang_host_linux-x86" groups="pdk" remote="aexmod" />
   <project path="prebuilts/gcc/linux-x86/aarch64" name="platform_prebuilts_kernel-tc" remote="aexmod" revision="gcc-8.x" />
+  <project path="prebuilts/clang/host/linux-x86/kernel" name="platform_prebuilts_kernel-tc" remote="aexmod" revision="clang" />
+
 </manifest>
