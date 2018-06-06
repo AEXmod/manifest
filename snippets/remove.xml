@@ -78,6 +78,7 @@
   <remove-project name="platform/bionic" />
   <remove-project name="platform/libcore" />
   <remove-project name="platform/libnativehelper" />
+  <remove-project name="platform/external/curl" />
   <remove-project name="platform/bootable/recovery" />
   <remove-project name="platform/external/selinux" />
   <remove-project name="platform/external/skia" />
