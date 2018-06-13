@@ -15,7 +15,7 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
-<!--  <project path="art" name="platform_art" groups="pdk" remote="aexmod" /> -->
+  <project path="art" name="platform_art" groups="pdk" remote="aexmod" /> -->
   <project path="bionic" name="platform_bionic" groups="pdk" remote="aexmod" />
   <project path="libcore" name="platform_libcore" groups="pdk" remote="aexmod" />
   <project path="libnativehelper" name="platform_libnativehelper" groups="pdk" remote="aexmod" />
