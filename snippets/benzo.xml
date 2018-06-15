@@ -20,6 +20,7 @@
   <project path="external/webp" name="external_webp" remote="benzo" revision="oreo" />
   <project path="external/curl" name="external_curl" remote="benzo" revision="eightone"/>
 
-   <!-- Vendor -->
-  <project path="vendor/dexoptProfiles" name="vendor_dexoptProfiles" remote="benzo" revision="eightone" />
+   <!-- Build tools -->
+  <project path="build/kati" name="build_kati" remote="benzo" revision="eightone"/>
+
 </manifest>

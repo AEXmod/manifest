@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project path="build/kati" name="platform_build_kati" groups="pdk,tradefed" remote="aex" />
   <project path="bootable/recovery" name="platform_bootable_recovery" groups="pdk" remote="aex" />
   <project path="development" name="platform_development" groups="pdk-cw-fs,pdk-fs" remote="aex" />
   <project path="external/connectivity" name="platform_external_connectivity" groups="pdk" remote="aex" />
