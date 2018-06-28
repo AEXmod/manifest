@@ -25,6 +25,9 @@
   <project path="external/libavc" name="platform_external_libavc" remote="aexmod" />
   <project path="external/libhevc" name="platform_external_libhevc" remote="aexmod" />
   <project path="external/fuse" name="platform_external_fuse" remote="aexmod" />
+  <project path="external/libjpeg-turbo" name="platform_external_libjpeg-turbo" remote="aexmod" />
+  <project path="external/zlib" name="platform_external_zlib" remote="aexmod" />
+  <project path="external/libopus" name="platform_external_libopus" remote="aexmod" />
   <project path="frameworks/av" name="platform_frameworks_av" groups="pdk" remote="aexmod" />
   <project path="frameworks/base" name="platform_frameworks_base" remote="aexmod" />
   <project path="frameworks/native" name="platform_frameworks_native" groups="pdk" remote="aexmod" />
@@ -60,6 +63,7 @@
   <project path="system/vold" name="platform_system_vold" groups="pdk" remote="aexmod" />
   <project path="system/bt" name="platform_system_bt" groups="pdk" remote="aexmod" />
   <project path="system/netd" name="platform_system_netd" groups="pdk" remote="aexmod" />
+  <project path="system/libhwbinder" name="platform_system_libhwbinder" remote="aexmod" />
   <project path="hardware/aosp/interfaces" name="platform_hardware_aosp_interfaces" remote="aexmod" >
       <copyfile dest="hardware/aosp/Android.bp" src="Android.bp"/>
   </project>

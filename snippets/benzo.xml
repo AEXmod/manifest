@@ -6,13 +6,10 @@
   <project path="external/sqlite" name="external_sqlite" remote="benzo" revision="eightone" />
   <project path="external/proguard" name="external_proguard" remote="benzo" revision="eightone" />
   <project path="external/freetype" name="external_freetype" remote="benzo" revision="eightone" />
-  <project path="external/zlib" name="external_zlib" remote="benzo" revision="eightone" />
   <project path="external/boringssl" name="external_boringssl" remote="benzo" revision="eightone" />
   <project path="external/libpng" name="external_libpng" remote="benzo" revision="eightone" />
-  <project path="external/libjpeg-turbo" name="external_libjpeg-turbo" remote="benzo" revision="eightone" />
   <project path="external/jemalloc" name="external_jemalloc" remote="benzo" revision="eightone" />
   <project path="external/speex" name="external_speex" remote="benzo" revision="eightone" />
-  <project path="external/libopus" name="external_libopus" remote="benzo" revision="eightone" />
   <project path="external/v8" name="external_v8" remote="benzo" revision="oreo" />
   <project path="external/expat" name="external_expat" remote="benzo" revision="oreo" />
   <project path="external/ImageMagick" name="external_ImageMagick" remote="benzo" revision="oreo" />
