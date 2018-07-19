@@ -22,6 +22,9 @@
   <remote  name="benzo"
            fetch="https://github.com/BenzoRom"/>
 
+  <remote  name="benzo_bb"
+           fetch="https://bitbucket.org/xanaxdroid/" />
+
   <remote name="linaro"
               fetch="git://android.git.linaro.org/"
               review="review.android.git.linaro.org" 

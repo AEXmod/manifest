@@ -104,6 +104,7 @@
   <remove-project name="platform/external/webrtc" />
   <remove-project name="platform/external/webp" />
   <remove-project name="platform/external/libunwind_llvm" />
+  <remove-project name="platform/external/chromium-webview" />
   <remove-project name="platform/frameworks/av" />
   <remove-project name="platform/frameworks/base" />
   <remove-project name="platform/frameworks/native" />

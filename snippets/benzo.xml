@@ -16,6 +16,7 @@
   <project path="external/webrtc" name="external_webrtc" remote="benzo" revision="oreo" />
   <project path="external/webp" name="external_webp" remote="benzo" revision="oreo" />
   <project path="external/curl" name="external_curl" remote="benzo" revision="eightone"/>
+  <project path="external/chromium-webview" name="external_chromium-webview" remote="benzo_bb" revision="eightone"/>
 
    <!-- Build tools -->
   <project path="build/kati" name="build_kati" remote="benzo" revision="eightone"/>
