@@ -67,6 +67,7 @@
   <project path="system/netd" name="platform_system_netd" groups="pdk" remote="aexmod" />
   <project path="system/libhwbinder" name="platform_system_libhwbinder" remote="aexmod" />
   <project path="system/libhidl" name="platform_system_libhidl" groups="pdk" remote="aexmod" />
+  <project path="system/update_engine" name="platform_system_update_engine" groups="pdk" remote="aexmod"/>
   <project path="hardware/aosp/interfaces" name="platform_hardware_aosp_interfaces" remote="aexmod" >
       <copyfile dest="hardware/aosp/Android.bp" src="Android.bp"/>
   </project>

@@ -155,5 +155,6 @@
   <remove-project name="platform/system/netd" />
   <remove-project name="platform/external/mksh" />
   <remove-project name="platform/external/toybox" />
+  <remove-project name="platform/system/update_engine" />
 
 </manifest>
