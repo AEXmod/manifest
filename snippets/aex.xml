@@ -51,7 +51,6 @@
   <project path="external/powertop" name="platform_external_powertop" remote="aex" />
 
   <!-- HALs -->
-  <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" remote="aex" revision="8.1.x-ims" />
   <project path="vendor/qcom/opensource/interfaces" name="platform_vendor_qcom_opensource_interfaces" remote="aex" >
     <copyfile dest="vendor/qcom/opensource/Android.bp" src="os_pickup.bp"/>
   </project>
